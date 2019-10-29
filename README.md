@@ -1,7 +1,7 @@
 # Open-Lab-04.06
 (15 XP) A function that creates an array of an integer without odd numbers.
 
-1. Clone this repository to your GitHub account.
+1. Fork this repository to your GitHub account.
 2. Open solution file in Visual Studio.
 3. Open file `Numbers.cs`.
 4. Implement the method `NoOdds(int[] numbers)` that takes an integer array and returns the numbers from the previous array without the odd ones.
